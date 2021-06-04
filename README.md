@@ -1,7 +1,7 @@
 # SDD-FIQA: Unsupervised Face Image Quality Assessment with Similarity Distribution Distance
 
 ## Intruduction
-The code of SDD-FIQA has been released at https://github.com/Tencent/TFace/tree/quality
+The code of SDD-FIQA has been released at https://github.com/Tencent/TFace/tree/quality.
 
 ## Citation
 If you find this code useful in your research, please consider citing us:
